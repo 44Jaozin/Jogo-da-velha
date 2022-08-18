@@ -1,8 +1,6 @@
-from cProfile import label
 import tkinter as tk
 from tkinter import *
 import os
-from turtle import color
 
 
 # Estrutura do app
